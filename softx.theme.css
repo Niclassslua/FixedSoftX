@@ -26,7 +26,7 @@
   --guilds-width: 105px; /* Width of the server list. | Default: 105px */
   --members-width: 280px; /* Width of the members list. | Default: 280px */
   --server-size: 45px; /* Size of the servers inside the server list. | Default: 50px */
-  --chat-avatar-size: 32px; /* Size of the chat avatars. | Default: 32px */
+  --chat-avatar-size: 42px; /* Size of the chat avatars. | Default: 32px */
   --rs-small-spacing: 2px; /* Gap between avatar and status for members list/dms | MUST end in px */
   --rs-medium-spacing: 2px; /* Gap between avatar and status for User popout | MUST end in px */
   --rs-large-spacing: 2px; /* Gap between avatar and status for User profiles | MUST end in px */
