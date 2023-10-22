@@ -3899,9 +3899,9 @@ body #ChannelsPreview::before {
 #app-mount .wrapper-38slSD ul[role=group] {
   height: auto !important;
 }
-#app-mount .scroller-3X7KbA > div[style]:not([class]) {
+/* #app-mount .scroller-3X7KbA > div[style]:not([class]) {
   margin-bottom: var(--server-spacing);
-}
+} */
 #app-mount .listItem-3SmSlK {
   width: 100%;
   margin-bottom: var(--server-spacing);
