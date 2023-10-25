@@ -1,23 +1,13 @@
-/**
- * @name SoftX
- * @author Gibbu#1211
- * @version 1.0.0
- * @description A soft and comfy feel for Discord.
- * @invite ZHthyCw
- * @authorId 174868361040232448
- * @source https://github.com/DiscordStyles/SoftX
- * @BDEditor SoftX
-*/
-
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap');
 @import url('https://raw.githubusercontent.com/Niclassslua/FixedSoftX/main/SoftX.css');
-/* @import url('https://discordstyles.github.io/SoftX/RadialGlow.css'); */
-/* @import url('https://discordstyles.github.io/SoftX/VerticalUserArea.css'); */
-/* @import url('https://discordstyles.github.io/Addons/windows-titlebar.css'); */
+/* @import url('https://raw.githubusercontent.com/Niclassslua/FixedSoftX/main/RadialGlow.css'); */
+@import url('https://raw.githubusercontent.com/Niclassslua/FixedSoftX/main/windows-titlebar.css');
+
+@import url('https://raw.githubusercontent.com/Niclassslua/FixedSoftX/main/fixes.css');
 
 :root {
   --background-image: url('https://wallpaperaccess.com/full/1155017.jpg'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
-  --background-blur: 150px; /* Blur intensity of --background-image */
+  --background-blur: 100px; /* Blur intensity of --background-image */
   --opacity: 0.80; /* Opacity of overall app. | Default: .85 */
   --accent: 171,171,171; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --glow-intensity: 0; /* Intensity of the glow used around the app. | Set to 0 to disable the glow. | Decimals allowed | Default: 1 */
@@ -43,7 +33,3 @@
   --rs-phone-visible: block; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
   --rs-invisible-color: #747f8d; /* Colour for invisible status - Note: this will only show for your own invisibility */
 }
-
-/* Any custom CSS below here */
-
-
