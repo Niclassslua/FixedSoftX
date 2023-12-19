@@ -61,7 +61,7 @@
 	--text-link: rgb(var(--accent));
 	--font-primary: var(--font, "Whitney");
 	--font-display: var(--font, "Whitney");
-	--channels-default: #aaa;
+	--channels-default: #7a7a7a;
 	--background-modifier-hover: rgb(255 255 255 / 0.05);
 	--background-modifier-active: rgb(255 255 255 / 0.08);
 	--brand-experiment: rgb(var(--accent), 0.35);
