@@ -6,9 +6,9 @@
 @import url('https://raw.githubusercontent.com/Niclassslua/FixedSoftX/main/fixes.css');
 
 :root {
-  --background-image: url('https://wallpaperaccess.com/full/1155017.jpg'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url('https://wallpaperaccess.com/full/5486560.png'); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-blur: 100px; /* Blur intensity of --background-image */
-  --opacity: 0.80; /* Opacity of overall app. | Default: .85 */
+  --opacity: 0.9; /* Opacity of overall app. | Default: .85 */
   --accent: 171,171,171; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --glow-intensity: 0; /* Intensity of the glow used around the app. | Set to 0 to disable the glow. | Decimals allowed | Default: 1 */
   --font: Inter; /* Custom font | Default: 'Inter' */
